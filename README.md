@@ -1,1 +1,2 @@
-Sentiment Analysis and Aspect Based Sentiment Analysis
+# Sentiment Analysis and Aspect Based Sentiment Analysis
+This project involves Aspect-Based Sentiment Analysis (ABSA) using Natural Language Processing (NLP) techniques. The analysis is performed on user comments from the BoardGameGeek (BGG) website, focusing on specific aspects of the games. The goal is to assign sentiment labels (positive, negative, or neutral) along with sentiment scores to the comments. A pre-trained BERT model was utilized to conduct the sentiment analysis on a dataset of comments for the top 10 board games. 
